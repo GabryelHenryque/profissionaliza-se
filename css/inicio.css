@@ -1,0 +1,935 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+.tela-de-apresentao-child {
+    position: absolute;
+    top: 1454px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 735px;
+    height: 561px;
+}
+.tela-de-apresentao-item {
+    position: absolute;
+    top: -262px;
+    left: -517px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #b83368;
+    width: 26px;
+    height: 21px;
+    transform:  rotate(180deg);
+    transform-origin: 0 0;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #a40148;
+    width: 280px;
+    height: 85px;
+}
+.rectangle-wrapper {
+    position: absolute;
+    top: 16px;
+    left: 179px;
+    width: 280px;
+    height: 85px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 666px;
+    border-radius: 20px;
+    width: 773px;
+    height: 561px;
+    object-fit: cover;
+}
+.quem-somos {
+    position: absolute;
+    top: 44px;
+    left: 246px;
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1439px;
+    height: 545px;
+}
+.group-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1439px;
+    height: 561px;
+}
+.blank-line {
+    margin: 0;
+}
+.somos-uma-plataforma-container {
+    position: absolute;
+    top: 146px;
+    left: 47px;
+    color: #000;
+    text-align: center;
+    display: inline-block;
+    width: 556px;
+    height: 332px;
+}
+.group-parent {
+    position: absolute;
+    top: 1454px;
+    left: 0px;
+    width: 1439px;
+    height: 561px;
+    font-size: 24px;
+}
+.text {
+    position: absolute;
+    top: 3469px;
+    left: 680px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    background-color: #a40148;
+    width: 1437px;
+    height: 470px;
+}
+.copyright-todos {
+    position: absolute;
+    top: 306px;
+    left: 450px;
+}
+.social {
+    position: absolute;
+    top: 0px;
+    left: 676px;
+    font-size: 24px;
+    display: inline-block;
+    width: 88px;
+    height: 57px;
+}
+.tools-child {
+    position: absolute;
+    top: 57px;
+    left: 231px;
+    width: 1px;
+    height: 190px;
+    object-fit: contain;
+}
+.tools-item {
+    position: absolute;
+    top: 67px;
+    left: 1249px;
+    width: 1px;
+    height: 190px;
+    object-fit: contain;
+}
+.tools-inner {
+    position: absolute;
+    top: 297.83px;
+    left: 0px;
+    width: 1439px;
+    height: 1.2px;
+    object-fit: contain;
+}
+.sobre {
+    position: absolute;
+    top: 0px;
+    left: 26px;
+}
+.fale-com-nosco {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+}
+.sobre-parent {
+    position: absolute;
+    top: 143px;
+    left: 1305px;
+    width: 87px;
+    height: 40px;
+    font-family: 'Wix Madefor Text';
+}
+.tools {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1439px;
+    height: 337px;
+    font-family: 'Inknut Antiqua';
+}
+.termos-de-uso {
+    position: absolute;
+    top: 0px;
+    left: 18px;
+}
+.poltica-de-privacidade {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+}
+.termos-de-uso-parent {
+    position: absolute;
+    top: 133px;
+    left: 49px;
+    width: 127px;
+    height: 44px;
+}
+.lorem-ipysom-adfaswe {
+    position: absolute;
+    top: 71px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.lorem-ipysom-adfaswe1 {
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.lorem-ipysom-adfaswe2 {
+    position: absolute;
+    top: 43px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.lorem-ipysom-adfaswe3 {
+    position: absolute;
+    top: 57px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.social-icon {
+    position: absolute;
+    top: 0px;
+    left: 85px;
+    width: 30px;
+    height: 30px;
+}
+.lorem-ipysom-adfaswe-aesdf-asd-parent {
+    position: absolute;
+    top: 98px;
+    left: 300px;
+    width: 199px;
+    height: 99px;
+}
+.social-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 85px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+}
+.lorem-ipysom-adfaswe4 {
+    position: absolute;
+    top: 73px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.lorem-ipysom-adfaswe5 {
+    position: absolute;
+    top: 87px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.lorem-ipysom-adfaswe6 {
+    position: absolute;
+    top: 45px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.lorem-ipysom-adfaswe7 {
+    position: absolute;
+    top: 59px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.social-parent {
+    position: absolute;
+    top: 96px;
+    left: 614px;
+    width: 199px;
+    height: 101px;
+}
+.vector-icon {
+    position: absolute;
+    top: calc(50% - 55.5px);
+    left: calc(50% - 14.5px);
+    width: 30px;
+    height: 30px;
+}
+.lorem-ipysom-adfaswe8 {
+    position: absolute;
+    top: 83px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.lorem-ipysom-adfaswe9 {
+    position: absolute;
+    top: 97px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.lorem-ipysom-adfaswe10 {
+    position: absolute;
+    top: 55px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.lorem-ipysom-adfaswe11 {
+    position: absolute;
+    top: 69px;
+    left: 0px;
+    display: inline-block;
+    width: 199px;
+    height: 14px;
+}
+.vector-parent {
+    position: absolute;
+    top: calc(50% - 82.5px);
+    left: calc(50% + 217.5px);
+    width: 199px;
+    height: 111px;
+}
+.tools-parent {
+    position: absolute;
+    top: 134px;
+    left: 0px;
+    width: 1439px;
+    height: 337px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 4212px;
+    left: 0px;
+    width: 1439px;
+    height: 471px;
+    font-family: 'Wix Madefor Text';
+}
+.profissionais {
+    position: absolute;
+    top: 0px;
+    left: 435px;
+    display: inline-block;
+    width: 162px;
+}
+.group-child1 {
+    position: absolute;
+    top: 112px;
+    left: 375px;
+    border-radius: 20px;
+    background-color: #97c19f;
+    width: 273px;
+    height: 363px;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    background-color: #a40148;
+    width: 274px;
+    height: 363px;
+}
+.a-experincia-de {
+    position: absolute;
+    top: 95px;
+    left: 30px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 214.8px;
+}
+.feedback {
+    position: absolute;
+    top: 23px;
+    left: 63px;
+    font-size: 24px;
+    white-space: pre-wrap;
+    text-align: left;
+    display: inline-block;
+    width: 196.7px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 0px;
+    left: 375px;
+    width: 274px;
+    height: 363px;
+    text-align: center;
+    font-size: 12px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    width: 273px;
+    height: 363px;
+    object-fit: cover;
+}
+.group-child3 {
+    position: absolute;
+    top: 306px;
+    left: 14px;
+    border-radius: 20px;
+    background-color: #a40148;
+    width: 246px;
+    height: 43px;
+}
+.nome-da-pessoa {
+    position: absolute;
+    top: 313px;
+    left: 46px;
+}
+.rectangle-container {
+    position: absolute;
+    top: 0px;
+    left: 758px;
+    width: 273px;
+    height: 363px;
+}
+.div {
+    position: absolute;
+    top: 124px;
+    left: 25px;
+    display: inline-block;
+    width: 213px;
+    opacity: 0.11;
+}
+.group-child5 {
+    position: absolute;
+    top: 306px;
+    left: 9px;
+    border-radius: 20px;
+    background-color: #a40148;
+    width: 246px;
+    height: 43px;
+}
+.joozim {
+    position: absolute;
+    top: 313px;
+    left: 89px;
+    color: #fff;
+}
+.rectangle-parent1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 273px;
+    height: 363px;
+    color: #000;
+}
+.group-div {
+    position: absolute;
+    top: 112px;
+    left: 0px;
+    width: 1031px;
+    height: 363px;
+}
+.profissionais-satisfeitas {
+    position: absolute;
+    top: 558px;
+    left: 370px;
+    font-size: 20px;
+}
+.profissionais-parent {
+    position: absolute;
+    top: 812px;
+    left: 204px;
+    width: 1031px;
+    height: 582px;
+    font-size: 24px;
+}
+.foto-de-gabriel-henrique-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1439px;
+    height: 792px;
+    object-fit: cover;
+}
+.tela-de-apresentao-inner {
+    position: absolute;
+    top: 166px;
+    left: 291px;
+    backdrop-filter: blur(50px);
+    background-color: rgba(217, 217, 217, 0.2);
+    width: 849px;
+    height: 460px;
+}
+.profissionalize-se {
+    position: absolute;
+    top: 168px;
+    left: 156px;
+    display: inline-block;
+    width: 545px;
+    height: 76px;
+}
+.transforme-seu-futuro {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 358px;
+    height: 48px;
+}
+.transforme-seu-futuro-wrapper {
+    position: absolute;
+    top: 244px;
+    left: 242px;
+    width: 358px;
+    height: 48px;
+    text-align: center;
+    font-size: 32px;
+}
+.group-child6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 849px;
+    height: 460px;
+}
+.profissionalize-se-parent {
+    position: absolute;
+    top: 166px;
+    left: 291px;
+    width: 849px;
+    height: 460px;
+    font-size: 64px;
+}
+.group-child7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #e6e6e6;
+    border-right: 3px solid #a40148;
+    border-bottom: 3px solid #a40148;
+    box-sizing: border-box;
+    width: 406px;
+    height: 85px;
+}
+.entrar {
+    position: absolute;
+    top: 28px;
+    left: 160px;
+    display: inline-block;
+    width: 85px;
+    height: 29px;
+}
+.rectangle-parent2 {
+    position: absolute;
+    top: 676px;
+    left: 509px;
+    width: 406px;
+    height: 85px;
+    cursor: pointer;
+    font-size: 24px;
+    color: #a40148;
+}
+.fi-sr-undo-icon {
+    position: absolute;
+    top: 4156px;
+    left: 706px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.tela-de-apresentao-child1 {
+    position: absolute;
+    top: 2576px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 1439px;
+    height: 561px;
+}
+.ver-mais {
+    position: absolute;
+    top: 3092px;
+    left: 696px;
+    text-decoration: underline;
+    font-family: 'Wix Madefor Text';
+    color: #000;
+}
+.tela-de-apresentao-child2 {
+    position: absolute;
+    top: 2672px;
+    left: 146px;
+    border-radius: 30px;
+    background-color: #d9d9d9;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 260px;
+    height: 369px;
+}
+.tela-de-apresentao-child3 {
+    position: absolute;
+    top: 2672px;
+    left: 738px;
+    border-radius: 30px;
+    background-color: #d9d9d9;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 260px;
+    height: 369px;
+}
+.tela-de-apresentao-child4 {
+    position: absolute;
+    top: 2672px;
+    left: 1034px;
+    border-radius: 30px;
+    background-color: #d9d9d9;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 260px;
+    height: 369px;
+}
+.group-child8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px 30px 0px 0px;
+    background-color: #97c19f;
+    width: 260px;
+    height: 163px;
+}
+.group-child9 {
+    position: absolute;
+    top: 163px;
+    left: 0px;
+    border-radius: 0px 0px 30px 30px;
+    background-color: #a40148;
+    width: 260px;
+    height: 206px;
+}
+.titulo-loryn-ipsom {
+    position: absolute;
+    top: 183px;
+    left: 16px;
+    font-size: 15px;
+}
+.xh-curso {
+    position: absolute;
+    top: 337px;
+    left: 33px;
+}
+.por-xx {
+    position: absolute;
+    top: 337px;
+    left: 103px;
+}
+.descrio-sobre-curso-container {
+    position: absolute;
+    top: 231px;
+    left: 19px;
+    font-size: 13px;
+}
+.rectangle-parent3 {
+    position: absolute;
+    top: 2672px;
+    left: 1034px;
+    width: 260px;
+    height: 369px;
+}
+.tela-de-apresentao-child5 {
+    position: absolute;
+    top: 2672px;
+    left: 442px;
+    border-radius: 30px;
+    background-color: #d9d9d9;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 260px;
+    height: 369px;
+}
+.cursos-populares {
+    position: absolute;
+    top: 2584px;
+    left: 639px;
+    font-size: 24px;
+    color: #000;
+    display: inline-block;
+    width: 207px;
+}
+.acreditamos-que-o {
+    position: absolute;
+    top: 203px;
+    left: 268px;
+    display: inline-block;
+    width: 904px;
+}
+.acreditamos-que-o-sucesso-prof-parent {
+    position: absolute;
+    top: 2015px;
+    left: 0px;
+    width: 1439px;
+    height: 561px;
+    text-align: center;
+    font-size: 32px;
+}
+.fi-br-angle-left-icon {
+    position: absolute;
+    top: 2845px;
+    left: 55px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.fi-br-angle-right-icon {
+    position: absolute;
+    top: 2845px;
+    left: 1378px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.group-child12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px 30px 0px 0px;
+    width: 260px;
+    height: 163px;
+    object-fit: cover;
+}
+.rectangle-parent4 {
+    position: absolute;
+    top: 2672px;
+    left: 146px;
+    width: 260px;
+    height: 369px;
+}
+.rectangle-parent5 {
+    position: absolute;
+    top: 2672px;
+    left: 442px;
+    width: 260px;
+    height: 369px;
+}
+.rectangle-parent6 {
+    position: absolute;
+    top: 2672px;
+    left: 738px;
+    width: 260px;
+    height: 369px;
+}
+.group-child17 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #a40148;
+    width: 406px;
+    height: 85px;
+}
+.entrar-gratuitamente {
+    position: absolute;
+    top: 28px;
+    left: 50px;
+}
+.rectangle-parent7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 406px;
+    height: 85px;
+}
+.group-wrapper {
+    position: absolute;
+    top: 806px;
+    left: 68px;
+    width: 406px;
+    height: 85px;
+    cursor: pointer;
+    font-size: 24px;
+}
+.group-child18 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #a40148;
+    border: 5px solid #ffd400;
+    box-sizing: border-box;
+    width: 406px;
+    height: 85px;
+}
+.migrar-verso-premium {
+    position: absolute;
+    top: 28px;
+    left: 48px;
+}
+.group-frame {
+    position: absolute;
+    top: 806px;
+    left: 827px;
+    width: 406px;
+    height: 85px;
+    cursor: pointer;
+    font-size: 24px;
+}
+.group-child19 {
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #a40148;
+    width: 589px;
+    height: 690px;
+}
+.group-child20 {
+    position: absolute;
+    top: 81px;
+    left: 735px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #a40148;
+    border: 5px solid #ffd400;
+    box-sizing: border-box;
+    width: 589px;
+    height: 690px;
+}
+.verso-gratuita {
+    position: absolute;
+    top: 0px;
+    left: 157px;
+}
+.verso-premium {
+    position: absolute;
+    top: 0px;
+    left: 901px;
+}
+.rectangle-parent9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1324px;
+    height: 771px;
+    font-size: 36px;
+}
+.acesso-gratuito {
+    position: absolute;
+    top: 160px;
+    left: 783px;
+}
+.acesso-gratuito1 {
+    position: absolute;
+    top: 160px;
+    left: 57px;
+}
+.pontos-iniciais {
+    position: absolute;
+    top: 224px;
+    left: 57px;
+}
+.dobro-de-ganho {
+    position: absolute;
+    top: 392px;
+    left: 783px;
+}
+.pontos-iniciais1 {
+    position: absolute;
+    top: 218px;
+    left: 783px;
+}
+.perfil-padro {
+    position: absolute;
+    top: 282px;
+    left: 57px;
+}
+.se-candidatar {
+    position: absolute;
+    top: 340px;
+    left: 57px;
+}
+.se-candidatar1 {
+    position: absolute;
+    top: 334px;
+    left: 783px;
+}
+.editor-de-itens {
+    position: absolute;
+    top: 508px;
+    left: 783px;
+}
+.banner-animado {
+    position: absolute;
+    top: 566px;
+    left: 783px;
+    display: inline-block;
+    width: 204px;
+}
+.algums-cursos-gratuitos {
+    position: absolute;
+    top: 624px;
+    left: 783px;
+    display: inline-block;
+    width: 305px;
+}
+.itens-exclusivo-na {
+    position: absolute;
+    top: 450px;
+    left: 783px;
+}
+.perfil-prmio {
+    position: absolute;
+    top: 276px;
+    left: 783px;
+    white-space: pre-wrap;
+}
+.group-parent1 {
+    position: absolute;
+    top: 3203px;
+    left: 55px;
+    width: 1324px;
+    height: 891px;
+    font-size: 26px;
+}
+.tela-de-apresentao {
+    width: 100%;
+    position: relative;
+    background-color: #090b25;
+    height: 4683px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 12px;
+    color: #fff;
+    font-family: Inter;
+}
+
