@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,21 +19,34 @@
                 <div class="table-center">
                     <form>
                         <label>Nome Completo</label>
-                        <input type="text" alt="digite o seu nome completo"><br>
-                        <label>E-mail</label>
-                        <input type="email"  alt="digite o seu e-mail ou CPF"><br>
+                        <input type="text" alt="digite o seu nome completo" required><br>
+
+                        <label>E-mail:</label>
+                        <input type="email"  alt="digite o seu e-mail ou CPF" required><br>
                         
-                        <input type="password" alt="Digite o seu"
+                        <label>CPF:</label>
+                        <input type="text" maxlength="14" required><br>
 
                         <label>Senha:</label>
-                        <input type="password" alt="Digite a sua senha">
+                        <input type="password" alt="Digite o sua senha" required><br>
+                        
+                        <label>Confirmar Senha:</label>
+                        <input type="password" alt="Digite novamente sua senha" required><br>
+                        <!--pattern="\d{3}\.\d{3}\.\d{3}-\d{2}"-->
+                        
                      </form>
-                     <a href="#">Esqueceu a senha?</a>
+
                 </div>
 
                 <div class="table-down">
-                    <button>Entrar</button><br>
-                    <a href="./cadastro.html">Cadastre-se</a>
+                    <button>Cadastrar</button><br>
+
+                    <input type="checkbox" required>
+                    <label>Aceito as Politicas de Privacidade</label><br>
+                    <input type="checkbox" required>
+                    <label>Aceito os Termos de Uso</label><br>
+
+                    <a href="./login.html">Logar</a>
                 </div>
                 
         </section>
