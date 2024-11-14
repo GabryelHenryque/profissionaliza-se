@@ -8,13 +8,7 @@
     font-family: "inter", sans-serif;
 }
 
-body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-    background: linear-gradient(#EEEEFF , #C8C7FF);
-}
+
 
 .chatbot-popup {
     width: 420px;
