@@ -1,19 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*#region CODIGO DE TINDER DE TERCEIROS*/
 html, body {
   margin: 0;
@@ -35,7 +22,7 @@ input[type=radio] {
   margin: auto;
   transition: transform .4s ease;
   cursor: pointer;
-  background-color: aqua;
+
 }
 
 .tinder-carousel {
