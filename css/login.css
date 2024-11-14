@@ -1,0 +1,151 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Corpo da página */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #0d0d2b;
+    color: #ffffff;
+}
+
+/* Estilização principal */
+main {
+    display: flex;
+    width: 90%;
+    max-width: 800px;
+    background-color: #131335;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+/* Seção esquerda (título) */
+.section-left {
+    flex: 1;
+    background-color: rgb(255, 0, 127);
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.section-left h1 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* Seção direita (formulário) */
+.section-right {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Título do formulário */
+.table-up h2 {
+    font-size: 2rem;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Formulário de login */
+.table-center form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.table-center label {
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+.table-center input {
+    padding: 12px;
+    font-size: 1rem;
+    color: #0d0d2b;
+    background-color: #e0e0e0;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+}
+
+.table-center input:focus {
+    border: 2px solid #ff007f;
+}
+
+/* Link para redefinir senha */
+.table-center a {
+    font-size: 0.9rem;
+    color: #ff007f;
+    text-decoration: none;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.table-center a:hover {
+    text-decoration: underline;
+}
+
+/* Botão de login */
+.table-down {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.table-down button {
+    width: 100%;
+    padding: 12px;
+    font-size: 1rem;
+    color: #ffffff;
+    background-color: #ff007f;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.table-down button:hover {
+    background-color: #e60073;
+}
+
+/* Link para cadastro */
+.table-down a {
+    display: block;
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: #ff007f;
+    text-decoration: none;
+}
+
+.table-down a:hover {
+    text-decoration: underline;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    main {
+        flex-direction: column;
+        width: 95%;
+    }
+
+    .section-left {
+        padding: 30px;
+    }
+
+    .section-right {
+        padding: 20px;
+    }
+}
